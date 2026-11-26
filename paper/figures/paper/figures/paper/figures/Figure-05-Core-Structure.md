@@ -1,0 +1,1 @@
+Disturbance ε at source s. Solid arrows = directed couplings gain Γij delay τij. Components arranged by hop number. Dashed arrows = feedback couplings returning effect to earlier hop, creating loops (P5).
