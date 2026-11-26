@@ -1,0 +1,1 @@
+Decision flow RAC. Downstream change accepted as ripple only if all 5 criteria hold in sequence: C1 Path → C2 Timing → C3 Magnitude → C4 Dose-response → C5 Controls. Failure of any one rejects attribution (Eq.17).
