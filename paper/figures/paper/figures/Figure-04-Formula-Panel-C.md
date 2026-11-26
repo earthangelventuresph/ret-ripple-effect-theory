@@ -1,0 +1,1 @@
+Eq.19 Continuous a(r)=a0(r0/r)^((d−1)/2)exp[−η(r−r0)]. Eq.20 Stochastic JC+CJ^T+Q=0. Eq.21 Time-varying ΩL=ρ(A(L)...A(1))^(1/L). Eq.22 Layered block A, Ω=ρ(A). Eq.23 Parity ln Mobs=ψ ln Mpred+χ. Eq.24 Equivalence 90% CI ψ⊂[0.85,1.15], χ⊂[−0.10,+0.10]. Eq.25 Sample size n≥30.06 → n=32.
