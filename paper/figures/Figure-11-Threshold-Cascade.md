@@ -1,0 +1,1 @@
+Left: component activates when active fraction neighbours reaches φi. Right: simulated cascade frequency + mean size on random graphs φ=0.18. Dotted lines 1.04<ν<5.74 where Ωφ>1 Eq.16. Model illustration.
