@@ -1,0 +1,4 @@
+# requirements.txt — RET E1-E5 + figures
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
