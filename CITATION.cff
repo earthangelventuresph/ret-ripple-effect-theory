@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: Ripple Effect Theory: A Framework for Propagating Change Across Time and Interconnected Systems
+message: If you use this work, please cite it as below.
+type: article
+authors:
+    - family-names: Pangan
+    given-names: Angelica
+    orcid: https://orcid.org/0009-0007-2793-5008
+    affiliation: Earth Angel Ventures
+version: 1.0
+date-released: 2026-10-24
+license: CC-BY-4.0
+keywords: [ripple effect, causality, propagation, feedback systems, dynamical systems, networks, temporal processes, cascading failure, spectral radius, falsifiability]
+repository-code: https://github.com/earthangelventuresph/ret-ripple-effect-theory
+contact:
+    - name: Angelica Pangan
+    email: earthangelventuresph@gmail.com
