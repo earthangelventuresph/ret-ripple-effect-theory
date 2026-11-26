@@ -1,0 +1,1 @@
+ Layout radial tank + channel (E3). 8 probes sample radial tank at different distances + azimuths. 6 probes sample channel. Sham raises source tip above water so probe signal can only come from vibration carried by frame.
