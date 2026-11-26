@@ -1,0 +1,1 @@
+ Electronic coupled-node apparatus (E2+E5). Network under test (8 nodes) + physically separate reference (8 nodes) recorded together. Perturbations, randomisation, frozen predictions controlled by one computer. Common-cause injector reaches both, used only in E5.
