@@ -1,0 +1,1 @@
+Eq.1 Network equation. Eq.2 Perturbation x(0)=x0+ε es. Eq.3 Ripple Δi(t)=xi_dist−xi_base. Eq.4 Reachability Ris>0 iff path. Eq.5 Linear delayed dΔi/dt=−κiΔi+ΣΓijΔj(t−τij). Eq.6 Hop gain Aij=Γij/κi. Eq.7 Total dose M=(I−A)^-1 M(0). Eq.8 Hop doses M(k)=A^k M(0). Eq.9 Attenuation Mk≃K0Ω^k, λ=−lnΩ, ℓ=1/λ.
