@@ -1,0 +1,1 @@
+Central filled circle = disturbed source s. Each ring = one hop. Ring line weight decreases = attenuation. Dashed outer rings = hops whose doses fall toward detection limit. Small circles = components. Short lines = couplings. Ω = ρ(A) at base governs whether rings shrink or grow.
