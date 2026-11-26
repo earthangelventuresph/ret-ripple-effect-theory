@@ -1,0 +1,1 @@
+Ripple field along feed-forward chain 5 components. Each hop + delay τ=1.0, ×0.7. Arrows on time axis = causality bound dτ(s,i) Eq.11. No curve may rise above θ before its arrow. Doses nodes 0-4 = 1.00,0.70,0.49,0.34,0.24 × source = A^k. Model illustration.
